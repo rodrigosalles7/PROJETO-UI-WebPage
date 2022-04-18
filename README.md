@@ -26,7 +26,7 @@ Lembrando que não é necessária a instalação dele se você não for alterar 
 2. Executar o arquivo **.msi** que foi baixado;
 3. Realizar a instalação.
 
-### Instação do Cypress
+### Instalação do Cypress
 
 1. Vá até a pasta que foi baixada do GitHub;
 2. Abra o terminal que possui em seu computador (Git Bash ou CMD) na pasta;
