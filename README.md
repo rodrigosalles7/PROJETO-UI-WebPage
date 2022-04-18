@@ -72,6 +72,8 @@ Este comando é a execução de um Script que foi criado para abrir o Cypress.
 ```
 npm run test:chrome
 ```
+Este comando é a execução de um Script que foi criado para executar os dois testes com o Cypress utilizando o Chrome como navegador.
+
 Ao final do teste, é possível observar se os testes foram aprovados ou recusados através do próprio terminal.
 
 ![image](https://user-images.githubusercontent.com/72480923/163763340-6cc53b45-840b-408c-be49-8140d128c6ab.png)
