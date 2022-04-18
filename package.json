@@ -1,0 +1,10 @@
+{
+  "scripts": {
+      "open": "cypress open",
+      "test:chrome": "cypress run --browser chrome --headed chrome tag=@projeto"
+      
+  },
+  "cypress-cucumber-preprocessor": {
+      "step_definitions": "cypress/support/steps"
+  }
+}
